@@ -1,4 +1,4 @@
-"# Introduction To Data Science" 
+# Introduction To Data Science 
 The final project Tableau charts for the CDC disease control dataset are in the zip file. 
 
 # Labs
